@@ -12,7 +12,7 @@
 <br />
 
 ### Coding Platforms:
-[<img align="left" alt="alpha-neutr0n | HackerRank" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg"  />][HR]
+[<img align="left" alt="alpha-neutr0n | HackerRank" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][HR]
 [<img align="left" alt="alpha-neutr0n | CodeChef" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codechef.svg" />][CC]
 <br />
 
