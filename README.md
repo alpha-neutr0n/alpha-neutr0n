@@ -9,10 +9,9 @@
 ### Connect with me:
 
 [<img align="left" alt="alpha-neutr0n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="alpha-neutr0n | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][gmail]
 
 
 
 
 [linkedin]:https://www.linkedin.com/in/manikanth-katti-0a1155184/
-[gmail]:manikanthkatti@gmail.com
+
