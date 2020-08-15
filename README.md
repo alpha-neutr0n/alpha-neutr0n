@@ -9,6 +9,9 @@
 ### Connect with me:
 
 [<img align="left" alt="alpha-neutr0n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### Coding Platforms:
+[<img align="left" alt="alpha-neutr0n | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][HR]
 <br />
 
 ### Languages and Tools:
@@ -26,4 +29,4 @@
 
 
 [linkedin]:https://www.linkedin.com/in/manikanth-katti-0a1155184/
-
+[HR]:https://www.hackerrank.com/AlphaNeutron
