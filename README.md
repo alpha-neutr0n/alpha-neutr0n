@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="alpha-neutr0n | LinkedIn" width="30px" src="<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>" />][linkedin]
+[<img align="left" alt="alpha-neutr0n | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 <br />
 
 ### Coding Platforms:
