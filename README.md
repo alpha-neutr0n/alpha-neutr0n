@@ -8,10 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="alpha-neutr0n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="alpha-neutr0n | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
 ### Coding Platforms:
-[<img align="left" alt="alpha-neutr0n | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][HR]
+[<img align="left" alt="alpha-neutr0n | HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][HR]
 <br />
 
 ### Languages and Tools:
