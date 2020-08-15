@@ -10,3 +10,4 @@
 
 [<img align="left" alt="alpha-neutr0n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+[linkedin]: https://www.linkedin.com/in/manikanth-katti-0a1155184/
