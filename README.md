@@ -14,5 +14,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/manikanth-katti
+[linkedin]:https://www.linkedin.com/in/manikanth-katti-0a1155184/
 [gmail]:manikanthkatti@gmail.com
