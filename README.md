@@ -8,12 +8,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="alpha-neutr0n | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="alpha-neutr0n | LinkedIn" width="40x" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 <br />
 
 ### Coding Platforms:
-[<img align="left" alt="alpha-neutr0n | HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][HR]
-[<img align="left" alt="alpha-neutr0n | CodeChef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codechef.svg" />][CC]
+[<img align="left" alt="alpha-neutr0n | HackerRank" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][HR]
+[<img align="left" alt="alpha-neutr0n | CodeChef" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codechef.svg" />][CC]
 <br />
 
 ### Languages and Tools:
