@@ -13,6 +13,7 @@
 
 ### Coding Platforms:
 [<img align="left" alt="alpha-neutr0n | HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][HR]
+[<img align="left" alt="alpha-neutr0n | CodeChef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codechef.svg" />][CC]
 <br />
 
 ### Languages and Tools:
@@ -31,3 +32,4 @@
 
 [linkedin]:https://www.linkedin.com/in/manikanth-katti-0a1155184/
 [HR]:https://www.hackerrank.com/AlphaNeutron
+[CC]:https://www.codechef.com/users/alphaneutron
