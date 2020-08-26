@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on an IoT project.
 - 🌱 I’m currently learning everything that amuses me.
 - 👯 I’m looking to collaborate on front end web-development.
-- 🤔 I’m looking for help with Javascript.
+
 
 ### Connect with me:
 
