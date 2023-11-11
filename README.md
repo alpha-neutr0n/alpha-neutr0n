@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently doing competitive coding.
 - 🌱 I’m currently learning everything that amuses me.
-- 👯 I’m looking to collaborate on front end web-development.
+- 👯 I’m looking to collaborate for open source projects.
 
 
 ### Connect with me:
@@ -14,6 +14,7 @@
 ### Coding Platforms:
 [<img align="left" alt="alpha-neutr0n | HackerRank" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][HR]
 [<img align="left" alt="alpha-neutr0n | CodeChef" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codechef.svg" />][CC]
+[<img align="left" alt="alpha-neutr0n | LeetCode" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/leetcode.svg" />][LC]
 <br />
 
 ### Languages and Tools:
@@ -34,3 +35,4 @@
 [linkedin]:https://www.linkedin.com/in/manikanth-katti-0a1155184/
 [HR]:https://www.hackerrank.com/AlphaNeutron
 [CC]:https://www.codechef.com/users/alphaneutron
+[LC]:https://leetcode.com/alpha-neutr0n/
